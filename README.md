@@ -2,7 +2,7 @@
 Code for DELSumm, an unsupervised summarization algorithm for legal case judgements.
 
 ## Citation
-If you use this dataset or the codes, please refer to the following paper:
+If you use the code, please refer to the following paper:
 ```
   @inproceedings{bhattacharya-icail21,
    author = {Bhattacharya, Paheli and Poddar, Soham and and Rudra, Koustav and Ghosh, Kripabandhu and Ghosh, Saptarshi},
