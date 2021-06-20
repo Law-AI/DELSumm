@@ -64,6 +64,6 @@ c, l and s are the weights given to the content, legal and statute/law words res
 
 ### Demo to run on a sample set of documents
 
-python prepareData.py --data_path docs/ --prep_path docs/
+``python prepareData.py --data_path docs/ --prep_path docs/``
 
-python legal_ilp.py --prep_path docs/prepared_data.json --summary_path summary/ --length_file length_file.txt --class_weights F=2 I=3 RLC=1 A=1 P=1 S=1 R=2 RPC=3 --default_sents 1 --content_weight 1 --legal_weight 1 --statute_weight 2
+``python legal_ilp.py --prep_path docs/prepared_data.json --summary_path summary/ --length_file length_file.txt --class_weights F=2 I=3 RLC=1 A=1 P=1 S=1 R=2 RPC=3 --default_sents 1 --content_weight 1 --legal_weight 1 --statute_weight 2``
