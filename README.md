@@ -60,7 +60,7 @@ c, l and s are the weights given to the content, legal and statute/law words res
 
 *length_file* : must be specified
 
-*format of length_file* : a file containing the summary lengths of the documents to be summarized; each line of the file has the following format : document_name<tab>no.of words in summary
+*format of length_file* : a file containing the summary lengths of the documents to be summarized; each line of the file has the following format : ```document_name <TAB> no.of words in summary```
 
 ### Demo to run on a sample set of documents
 
