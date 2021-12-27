@@ -179,25 +179,25 @@ def compute_summary(args):
                     KSS = should_select(TW,All)
                     if KSS==1:
                         NUMBER_OF_SENTENCES+=1
-                        if ck=='Final Judgement' or ck=='Issue':
+                        if ck=='RPC' or ck=='I':
                             T[index] = [sentence,content,L,CL_WEIGHT,CLASS_INDEX]
                             TW[index] = All
                             index+=1
-                        elif ck=='Fact':
+                        elif ck=='F':
                             T[index] = [sentence,content,L,CL_WEIGHT*(1/position),CLASS_INDEX]
                             TW[index] = All
                             index+=1
-                        elif ck=='Statute':
+                        elif ck=='S':
                             ST = isStatute(sentence,'current-acts.txt')
                             T[index] = [sentence,content,L,CL_WEIGHT*ST,CLASS_INDEX]
                             TW[index] = All
                             index+=1
-                        elif ck=='Precedent':
+                        elif ck=='P':
                             PR = isPrecedent(sentence)
                             T[index] = [sentence,content,L,CL_WEIGHT*PR,CLASS_INDEX]
                             TW[index] = All
                             index+=1
-                        elif ck=='Ratio':
+                        elif ck=='R':
                             PR = isPrecedent(sentence)
                             ST = isStatute(sentence,'current-acts.txt')
                             T[index] = [sentence,content,L,CL_WEIGHT*position,CLASS_INDEX]
