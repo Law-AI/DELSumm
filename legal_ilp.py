@@ -175,7 +175,7 @@ def compute_summary(args):
                     for y in STATUTE_WORD:
                         All.add(y.lower())
                         content.add(y.lower())
-                        content_count[y.lower()] = args.legal_weight
+                        content_count[y.lower()] = args.statute_weight
                     KSS = should_select(TW,All)
                     if KSS==1:
                         NUMBER_OF_SENTENCES+=1
