@@ -200,7 +200,7 @@ def compute_summary(args):
                         elif ck=='R':
                             PR = isPrecedent(sentence)
                             ST = isStatute(sentence,'current-acts.txt')
-                            T[index] = [sentence,content,L,CL_WEIGHT*position,CLASS_INDEX]
+                            T[index] = [sentence,content,L,CL_WEIGHT*position*(PR or ST),CLASS_INDEX]
                             TW[index] = All
                             index+=1
                         else:
