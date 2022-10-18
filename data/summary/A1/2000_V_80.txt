@@ -1,0 +1,43 @@
+FACTS
+the appellant is a company incorporated under the companies act,1956 with the object of manufacture and sale of cigarettes.
+members of general public are the shareholders and the shares of the company are traded in through various stock exchanges in the country.
+a petition was filed under article 226 of the constitution by respondent no.1 seeking for a writ of mandamus to treat the members of the respondent-union who are employees working in the canteen of the appellants factory as employees of the appellant and for grant of monetary and other consequential benefits.
+the learned single judge granted reliefs sought for by the respondents,however,imposing certain restrictions with regard to the age,being medically fit,on the date of the writ petition,had put in a minimum of three years of continuous service and such service prior to the attainment of the minimum qualifying age under the company should be ignored
+. on appeal,the division bench of the high court affirmed the view taken by the learned single judge.
+
+ARGUMENT
+on behalf of the respondents,it is contended that the appellant had been managing the canteen up to the year 1982 and thereafter introduced the contract system for maintaining the canteen so established; that though the management of the canteen had been entrusted to the contractors from time to time,the personnel employed in the canteen were retained by all the contractors and they have been paid salaries through contractors; that the workmen employed in the canteen have been provided with esi benefits under the code no.vst,the appellant,and benefits arising under the employees provident funds act are also provided similarly; that the appellant has also provided a building along with furniture,utensils,cutlery,gas,electricity,water supply and other facilities; that the contractor is engaged only to prepare the food and serve it to the employees and that the quality of the food and the rates are controlled by the management of the appellant.
+on behalf of the appellant,contention was raised that no writ would lie against the appellant inasmuch as the appellant is a company,which is not an authority or a person against whom a writ would lie.
+it was submitted that they do not discharge any public duty and hence the writ cannot be issued. on the merits of the matter,the appellant disputed various questions of fact and urged that the decision of this court in parimal chandra raha vs. life insurance corporation of india,1995 supp.(2) scc 611 1995 indlaw sc 183,would not be applicable to the appellant in the facts and circumstances of the case.
+on behalf of the appellant contention put forth at the forefront is that a writ would not lie against the appellant inasmuch as the appellant is engaged in the manufacture and sale of cigarettes and as an incident thereto has provided a canteen to its workmen pursuant to an obligation under section 46 of the act.
+on behalf of the respondent,heavy reliance was placed on this decision and also the decision of the high court in t.gattaiahs case,to contend that in running a canteen under section 46 of the act,the appellant was discharging a public duty and,therefore,a writ of mandamus would lie against it.
+the contesting respondents contended that the workmen in the canteen had been working right from its inception,that is,since 1967; that from 1976 onwards,after expiry of the contract with the industrial catering services,they had been directly working with the appellant without any contractor; that they sought for regularization of their services by letter dated 28 february 1978; that the said letter was corrected and redrafted by the personnel manager to indicate the idea of floating an association/society to run the canteen; that this modified request contained in ex.w-49 was stated to be contradictory to the stand taken by the workmen all through.
+
+ISSUE
+in these appeals,on a reference made on the question whether certain persons employed in the canteen should be treated as employees of the appellant and,if so,in what category they are to be fitted in and to what wages they are entitled to,the industrial tribunal,hyderabad,[hereinafter referred to as the tribunal] inquired into the matter
+
+ANALYSIS
+in de smith,woolf and jowells judicial review of administrative action,5th edn.,after detailed discussion,the learned authors have summarized the position with the following propositions:
+(1) the test of whether a body is performing a public function,and is hence amenable to judicial review,may not depend upon the source of its power or whether the body is ostensibly a public or a private body.
+2) the principles of judicial review prima facie govern the activities of bodies performing public functions.
+however,not all decisions taken by bodies in the course of their public functions are the subject matter of judicial review.
+in the following two situations judicial review will not normally be appropriate even though the body may be performing a public function:
+(a) where some other branch of the law more appropriately governs the dispute between the parties.
+in such a case,that branch of the law and its remedies should and normally will be applied;
+and (b) where there is a contract between the litigants. in such a case the express or implied terms of the agreement should normally govern the matter.
+thus,where a special method of resolving disputes (such as arbitration or resolution by private or domestic tribunals) has been agreed by the parties (expressly or by necessary implication),that regime,and not judicial review,will normally govern the dispute.
+the high court has relied very strongly on the decision of a learned single judge in t.gattaiahs case wherein it was stated that a writ may lie under article 226 of the constitution against a company incorporated under the companies act,1956 as it is permissible to issue a writ against any person.
+in anadi muktas case this court examined the various aspects and the distinction between an authority and a person and after analysis of the decisions referred in that regard came to the conclusion that it is only in the circumstances when the authority or the person performs a public function or discharges a public duty article 226 of the constitution can be invoked.
+in the present case,the appellant is engaged in the manufacture and sale of cigarettes.
+manufacture and sale of cigarettes will not involve any public function.
+incidental to that activity there is an obligation under section 46 of the act to set up a canteen when the establishment has more than 250 workmen.
+that means,it is a condition of service in relation to a workman providing better facilities to workmen to discharge their duties properly and maintain their own health or welfare.
+the findings recorded by the learned single judge on examination of the facts available is that there had been a canteen within the premises of the appellant up to the year 1982 and it is only from 1982 onwards the management of the canteen has been entrusted to a private contractor; that even after change of the contractor,the canteen workers have continued to be the same irrespective of the change in the contractors from time to time; that wages were paid to the workmen in the canteen by the management through the contractor; that the appellant has provided the accommodation,furniture,fuel,electricity,utensils,etc. that the management exercises control over the standard in quality,quantity and the rate of the food items supplied to the workmen for whose benefit the canteen is established.
+thus,these circumstances clearly indicate that the appellant has a complete control over the activities in respect of the canteen and the contractor has absolutely no discretion either in regard to the menu,quality and quantity of the food items much less the rate at which the same are supplied to the workmen.
+when the management of the appellant exercises such a complete control,the canteen shall be deemed to be run by the management itself.
+the appellant in any manner cannot controvert these facts.
+there is no material on record to show that the canteen is located in such an area where it would be hazardous to have a fire,furnace,source of heat or light to cook food.
+
+STATUTE
+the canteen is provided in the factory premises of the appellant pursuant to section 46 of the factories act,1948 [hereinafter referred to as the act],which obliges a factory employing more than 250 workmen to provide such a canteen.
+

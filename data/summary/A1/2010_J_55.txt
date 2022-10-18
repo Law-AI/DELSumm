@@ -1,0 +1,67 @@
+FACTS
+the appellant is infosys technologies limited.
+it was incorporated and registered under the companies act,1956 on july 2,1981 in the name of infosys consultants private limited.
+the appellant got the trade mark 'infosys' registered in 1987 in classes 16 and 9 in connection with computer stationery,computer manuals,printed manual for computer instruction and teaching materials; computer hardwares,computer interface,computer peripherals,electronics telex interface and in 1988 in class 7 in connection with machine and machine tools and motors (not for land vehicles).
+on april 21,1992,the name of the company infosys consultants pvt.limited was changed to infosys technologies pvt.ltd.and thereafter on june 2,1992,the name was changed to the present name,i.e.infosys technologies limited.
+the first respondent is jupiter infosys limited.
+the first respondent was incorporated and registered in september 1978 under the name of jupiter agencies pvt.limited.
+the name of the first respondent was changed to jupiter infosys (p) limited in august,1995 and now since july,2003,the name is changed to jupiter international limited.
+on october 11,1996,the appellant instituted a suit in the calcutta high court for perpetual injunction,inter alia,restraining the first respondent from infringing the appellant's mark 'infosys' by using the mark 'infosys' by itself or in combination with other marks in course of its trade.
+the appellant also prayed for an interim order in the suit.
+on november 22,1996,the calcutta high court by an ad-interim order restrained the first respondent from using the word 'infosys' in any manner in relation to the goods for the time being.
+the ad-interim order was confirmed on november 29,1996.
+the appellant having come to know of several instances of misuse of mark 'infosys' also filed a writ petition before the calcutta high court,inter alia,praying that the registrar of companies be restrained from registering the companies bearing the name 'infosys'.
+on september 13,2000,the calcutta high court restrained the department of company affairs and registrar of companies from incorporating any company bearing the name 'infosys' without the permission of the appellant.
+in january 2001,the appellant filed yet another suit before the high court of judicature at madras for permanent injunction restraining the first respondent from offering shares to the public as claimed in the initial public offer (ipo) using 'infosys'.
+the first respondent then filed three separate applications before the madras high court,inter alia,under sections 46 and 56 of the trade and merchandise marks act,1958.
+the first respondent prayed for the removal/rectification of the entry in the register of trade mark in respect of trade mark no.475269 in class 16 while in the other two applications being,the first respondent prayed for removal/rectification of trade mark no.475267 in class 9 and trade mark no.484837 in class 7 respectively.
+
+ARGUMENT
+assailing the finding of the ipab as regards non-use by the appellant during the relevant period,learned counsel for the appellant argued that the said finding was erroneous on legal as well as factual premise.
+he contended that the ipab erred in holding that software was a 'service' and the subject registrations were in relation to goods without considering the wide definition of 'goods' provided under section 2(g) of the 1958 act.
+mr.akhil sibal argued that the ipab committed grave error in relying upon the provisions of the 1999 act and the trade marks rules,2002 when these provisions were not applicable as the applications were filed under the 1958 act.
+the ipab sought to rely upon 'computer programming' which is a 'service' enumerated in class 42,without considering the distinction between a 'computer programme' and 'computer programming' and without noticing the entry 'computer' under class 9 which falls within 'goods'.
+learned counsel would submit that in examining the question of non-use under section 46(1)(b),the ipab failed to consider that the requisite use must be 'in relation to goods' under registration,which is extensively defined under section 2(2)(b) of the 1958 act.
+the plea of 'aggrieved person' is a new plea and raised substantially for the first time before this court.
+he argued that the appellant has not taken the plea of the first respondent not being a 'person aggrieved' with respect to filing of the applications for rectification before the ipab; merely urging the plea that the first respondent has no locus standi in the written submissions before the ipab is not sufficient.
+learned counsel would submit that the appellant has,for the first time,argued before this court that the first respondent is not a person aggrieved and/or not capable of maintaining the rectification proceedings with respect to each and every good for which the appellant has been registered since the first respondent has not been registered for all the goods.
+
+ISSUE
+(a) whether the mark applied for registration was used in respect of the goods for which the mark was registered?
+(b) whether the respondent had a bonafide intention to use the mark applied for under section 18 of the trade and merchandise marks act?
+(c) whether the mark registered in favour of the respondent is a service mark? (d) whether there is a non use of registered trade mark by the respondent for a period of over 5 years and 1 month.
+(e) whether the registered trade mark is disentitled for protection in a court of law under section 11(e) of the trade and merchandise marks act?
+(f) whether the registered trade mark has lost its distinctiveness and is liable to be removed under section 32(c)?
+(g) whether the respondent has committed fraud while obtaining registration of the mark?
+(h)to what further relief?
+
+ANALYSIS
+whether the application is under section 46 or under section 56 or a composite application under both sections,it is a pre-requisite that the applicant must be a person aggrieved.
+section 46(1) of the 1958 act enables any person aggrieved to apply for removal of registered trade mark from the register on the ground of non use as stated in clause (a) and/or clause (b).
+to be an aggrieved person under section 46,he must be one whose interest is affected in some possible way; it must not be a fanciful suggestion of grievance.
+a likelihood of some injury or damage to the applicant by such trade mark remaining on the register may meet the test of locus standi.
+in kerly's law of trade marks and trade names (11th edition) at page 166,the legal position with regard to 'person aggrieved' has been summarized thus the persons who are aggrieved are all persons who are in some way or the other substantially interested in having the mark removed where it is a question of removal from the register; including all persons who would be substantially damaged if the mark remained, and all trade rivals over whom an advantage was gained by a trader who was getting the benefit of a registered trade mark to which he was not entitled.
+the court accept the above statement of law.
+sections 46 and 56 require 'person aggrieved' to apply for removal of the registered trade mark from the register or rectification of a trade mark in the register,the expression 'person aggrieved' for the purposes of these two sections has different connotations.
+in hardie trading ltd 2003 indlaw sc 756.(2003) 11 scc 92),this court stated that  the phrase "person aggrieved" is a common enough statutory precondition for a valid complaint or appeal.
+the phrase has been variously construed depending on the context in which it occurs.
+three sections viz.sections 46,56 and 69 of the act contain the phrase.
+section 46 deals with the removal of a registered trade mark from the register on the ground of non-use.
+this section presupposes that the registration which was validly made is liable to be taken off by subsequent non-user.
+section 56 on the other hand deals with situations where the initial registration should not have been or was incorrectly made.
+but if the ground for rectification is merely based on non-user i.e.under section 46 of the act,that is not really on account of any public mischief by way of an incorrect entry.
+the non-user does not by itself render the entry incorrect but it gives a right to a person whose interest is affected to apply for its removal.
+an applicant must therefore show that in some possible way he may be damaged or injured if the trade mark is allowed to stand.
+addisons' application was one under section 46 and the test to determine whether the applicant was a "person aggrieved" within the meaning of that section should have been the one laid down by romer,j.in wright case and not the one propounded by the house of lords in the matter of powell's trade mark.
+in a recent decision in the case of kabushiki kaisha toshiba  (2008) 10 scc 766) 2008 indlaw sc 1395, this court stated that section 46 speaks for private interest while section 56 speaks of a public interest.
+in the first place,when the first respondent applied for rectification/removal in respect of three registrations in classes 7,9 and 16,it must have shown in respect of each of them that it is a 'person aggrieved' and the ipab must have separately considered in respect of each registration the locus standi of the first respondent as the considerations for each entry might not have been common.
+during the pendency of the applications,certain events had taken place which had some bearing on the question of locus standi of the first respondent insofar as invocation of section 46 (1) of the 1958 act is concerned.
+in terms of section 46(1),not only that the applicant has to show that he is an aggrieved person as his interest is being affected but the ipab must also be satisfied,before it directs the removal of registered trade mark,that the applicant is an aggrieved person before it invokes the power in directing the removal of the  26 registered trade mark.
+this is so because the pre-requisite for exercise of power under section 46(1) is that the applicant is a person aggrieved.
+in the circumstances, the court was satisfied that the applications made by the first respondent for rectification/removal of the subject trade marks from the register need to be considered afresh by the ipab in accordance with law and the observations made above.
+since the first respondent has also grievance in connection with the impugned order particularly with regard to non-consideration of its case under section 56 of the 1958 act, the court refrained from going into the merits of the diverse contentions raised before us and leave the parties to agitate these contentions before the ipab.
+
+STATUTE
+s.46 of the trade and merchandise marks act - removal from register and imposition of limitations on ground of non-use.
+s.56 of the trade and merchandise marks act -power to cancel or vary registration and to rectify the register.
+
