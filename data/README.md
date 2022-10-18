@@ -32,12 +32,8 @@ The directory structure is as follows :
     .
     ├── judgement                 # folder contains documents           
     ├── summary    
-    │   ├── full                  # folder contains full summaries
-    │   │   ├── A1
-    │   │   ├── A2
-    │   ├── segment-wise          # folder contains segment-wise summaries
-    │   │   ├── A1
-    │   │   ├── A2
+    │   ├── A1                    # folder contains summaries by A1         
+    │   ├── A2                    # folder contains summaries by A1
     ├── IN-EXT-length.txt   # text file containing the word and sentence count statistics of the documents
     
 The format of the IN-EXT-length.txt file is :
