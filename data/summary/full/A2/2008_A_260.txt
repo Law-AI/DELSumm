@@ -1,0 +1,58 @@
+FACTS
+span diagnostics limited,respondent no.3 herein,is a public limited company established in 1972 to indigenously develop and manufacture a comprehensive range of readymade diagnostic reagents made by clinical pathology laboratories.
+on 14.6.2000 j.mitra &amp company pvt.ltd, appellant herein,filed its application for grant of patent.after scrutiny,the said application stood notified by the patent office on 20.11.2004.
+thus,proceedings commenced before the controller of patents in the year 2000 when the appellant herein sought a patent of their device which was opposed by respondent no.3 in the year 2000.by then,the patents (amendment) act,1999 had amended the patents act,1970 dealt with opposition to a patent vides s.25.
+at that time appeals against decisions made by the controller pertaining to "pre-grant oppositions" under s.25 were maintainable before the high court u/s.116(2) of the indian patents act,1970.
+in 2002,the legislature desired an amendment to the law and intended to create an appellate forum to hear appeals against orders passed by the controller consequently patents (amendment) act,2002 was promulgated on 25.6.2002.however,it was not brought into force immediately.it may be noted that in the said amendment act,2002,no provision was made pertaining to "post-grant opposition".that provision came to be made only under the patents (amendment) act,2005.
+
+ARGUMENT
+the controller rejected its "pre-grant opposition" and on that day "post-grant opposition" avenue was open to respondent no.3 vide s.25(2).
+according to the appellant,under the amended s.25 on rejection of "pre-grant opposition" it was open to respondent no.3 to move an application opposing grant of patent under s.25(2).
+the patent was granted to the appellant on 22.9.06.
+according to the appellant,it was open to respondent no.3 to challenge the grant of patent by making "post-grant opposition" under s.25(2) from which an appeal was maintainable to the appellate board.
+with the change in the structure of the act providing for only one statutory appeal and that too only against the order granting patent under s.25(4),the appeal filed by respondent no.3 against pre-grant opposition order was not maintainable on 19.10.06 by which time,as stated above,s.25 stood restructured providing for a dichotomy between "pre-grant opposition" and "post-grant opposition".
+
+ISSUE
+the question which arises for determination in this batch of civil appeals is : whether fao no.292/06 and fao no.293/06 filed by respondent no.3 herein in the high court were liable to be dismissed.
+according to the appellant,with the change in s.25 brought about by patents (amendment) act,2005,a dichotomy was introduced in the patents act,1970.according to the appellant,that dichotomy was between "pre-grant opposition" and "post-grant opposition".
+
+ANALYSIS
+by the patents (amendment) act,2005,for the first time a dichotomy was introduced in the patent law between "opposition to the pre-grant" and "opposition to the post-grant of patent.
+this was the major structural change in the patent law.
+similarly,under the patents (amendment) act,2005,appeal was restricted to the post-grant opposition orders and that appeal lay before the appellate board and not to the high court.here also,s.25 of the patents act,1970 as amended by patents (amendment) act,2005 whereas amended section 117a by which appeal was provided for against post-grant opposition order was not brought into force 2007.
+on 19.10.2006 when fao no.293/06 was filed in the high court,chapter xix of the parent act as amended vide patents (amendment) act,1999 continued to be in operation notwithstanding the enactment of the patents (amendment) act,2002 and the patents (amendment) act,2005 as the amended ss.116 and 117a were brought into force only vide notification dated 2.4.07.
+quite often the commencement of an act is postponed to some specific future date or to such date as the appropriate government may,by notification in the official gazette,appoint.
+at times provision is made for appointment of different dates for coming into force of different parts of the same act.
+an act cannot be said to commence or to be in force unless it is brought into operation by legislative enactment or by the exercise of authority by a delegate empowered to bring it into operation.
+s.25(1) is wider than s.25(2) as the latter is available only to a "person aggrieved".
+the main difference between s.25(1) and s.25(2),as brought about by patents (amendment) act,2005,is that even after a patent is granted,"post-grant opposition" can be filed under s.25 (2) for a period of one year.
+the reason is obvious.
+in relation to patents that are of recent origin,a higher scrutiny is necessary.
+this is the main rationale underlying s.25(2) of the said 1970 act.
+therefore,the legislature intended an appeal under section 117a(2) to the appellate board from any decision,order or direction of the controller,inter alia,under s.25(4).
+the legislature intended to provide for two types of scrutiny followed by one statutory appeal to the appellate board against "post-grant proceedings".
+the legislature intended to have a dichotomy between "pre-grant opposition" and "post-grant opposition".
+however,the legislature intended that there shall be only one statutory appeal against grant of patent.
+it was left to the executive to bring the enacted law into force vide notification.
+for some unknown reasons,the amended ss.116 and 117a(2) were not brought into force till 2.4.07 whereas the concept of "pre-grant" and "post-grant" oppositions were brought into force w.e.f.1.1.2005.
+this is where the legislative intent got defeated during the interregnum.
+it is during this interregnum that respondent no.3 filed its fao no.293/06 in the high court under section 116,as it stood on 19.10.06 under the patents (amendment) act,1999.
+on that date,the amended section 117a,suggested by patents (amendment) act,2005,was not brought into force.
+on 19.10.06 the old law prevailed under which an appeal lay before the high court.respondent no.3,in both the cases,preferred first appeals to the high court u/s.116 as it then stood.
+they are fao no.292/06 and fao no.293/06.
+the court to decide the fate of these pending appeals.one more aspect needs to be mentioned.
+under the patents (amendment) act,2005,appeal is provided to the appellate board against the order of the controller under s.25(4).
+however,that statutory appeal is maintainable only in "post-grant opposition" proceedings whereas respondent no.3 herein has instituted first appeals under the law then prevailing,challenging the order rejecting "pre-grant opposition".
+there is no point in transferring the pending fao no.292/06 and fao no.293/06 to the appellate board which has no authority to decide matters concerning "pre-grant opposition".
+moreover,it may be noted that even section 117g,which refers to transfer of pending proceedings to the appellate board,is also brought into force vide notification dated 3.4.07.keeping in mind the peculiar nature of the problem in hand,the court was of the view that ends of justice would be sub served if the high court is directed to hear and decide the appeals bearing fao no.292/06 and fao no.293/06 in accordance with law as it then stood,i.e.,u/s.116 under patents (amendment) act,1999 against orders passed by the controller in "pre-grant opposition" proceedings.
+
+STATUTE
+s.25 of the patents act, 1970- opposition to grant of patent.
+s.116 of the patents act, 1970.- (1) subject to the provisions of this act,the appellate board established u/s.83 of the trade marks act,1999 shall be the appellate board for the purposes of this act and the said appellate board shall exercise the jurisdiction,power and authority conferred on it by or under this act: provided that the technical member of the appellate board for the purposes of this act shall have the qualifications specified in sub-s.(2).
+(2) a person shall not be qualified for appointment as a technical member for the purposes of this act unless he- (a) has,at least five years,hold the post of controller under this act or has exercised the functions of the controller under this act for at least five years; or (b) has,for at least ten years,functioned as a registered patent agent and possesses a degree in engineering or technology or a masters degree in science from any university established under law for the time being in force or equivalent; or (c) has,for at least ten years,been an advocate of a proven specialized experience in practicing law relating to patents and designs. section 117a.(1) save as otherwise expressly provided in sub-section (2),no appeal shall lie from any decision,order or direction made or issued under this act by the central government,or from any act or order of the controller for the purpose of giving effect to any such decision,order or direction.
+(2) an appeal shall lie to the appellate board from any decision,order or direction of the controller or central government under section 15,section 16,section 17,section 18,section 19,section 20,section 25,section 27,section 28,section 51,section 54,section 57,section 60,section 61,section 63,section 66,sub-s.(3) of section 69,section 78,sub-ss.(1) to (5) of section 84,section 85,section 88,section 91,s.92 and s.94.
+(3) every appeal under this section shall be in prescribed form and shall be verified in such manner as may be prescribed and shall be accompanied by a copy of the decision,order or direction appealed against any by such fees as may be prescribed.
+(4) every appeal shall be made within three months from the date of the decision,order or direction,as the case may be,of the controller or the central government or within such further time as the appellate board may,in accordance with the rules made by it,allow.
+section 61 of the patents act, 1970- in section 117a of the principal act [as inserted by s.47 of the patents (amendment) act,2002,in sub-section (2),for the words and figures "section 20,section 25,section 27,section 28,",the words,figures and brackets "section 20,sub-s.(4) of section 25,section 28" shall be substituted.
+section 117g of the patents act, 1970 - transfer of pending proceedings to appellate board.-all cases of appeals against any order or decision of the controller and all cases pertaining to revocation of patent other than on a counter-claim in a suit for infringement and rectification of register pending before any high court,shall be transferred to the appellate board from such date as may be notified by the central government in the official gazette and the appellate board may proceed with the matter either de novo or from the stage it was so transferred.
+
